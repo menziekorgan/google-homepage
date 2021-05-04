@@ -9,7 +9,14 @@
     margin: 0;
     padding:0;
 }
-
-
-
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#button1 , #button2{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
