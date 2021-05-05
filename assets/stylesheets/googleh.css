@@ -14,7 +14,7 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-#button1 , #button2{
+button {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
