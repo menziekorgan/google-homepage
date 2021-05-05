@@ -14,14 +14,9 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-.flex-parent{
+.flex {
     display: flex;
-}
-.jc-center {
     justify-content: center;
-}
-button.margin-left {
-    margin-left: 20px;
 }
 #search-bar {
     display: block;
