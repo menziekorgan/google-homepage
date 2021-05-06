@@ -44,6 +44,9 @@ img {
     display: flex;
     justify-content: center;
 }
+.lucky {
+    margin-left: 10px; 
+}
 #search-bar {
     display: block;
     margin-left: auto;
