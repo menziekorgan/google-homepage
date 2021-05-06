@@ -5,6 +5,12 @@
     padding: 0;
     display: inline; 
 }
+#left-nav {
+    float: left;
+}
+#right-nav{
+    float: right;
+}
 .footer {
     list-style-type: none;
     margin: 0;
