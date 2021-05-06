@@ -38,6 +38,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: -200px;
 }
 .flex {
     display: flex;
@@ -48,7 +49,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     background-color: white;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 15px;
+    margin-bottom: 20px;
 }
 
