@@ -21,10 +21,11 @@
 }
 #left-foot {
     float:left;
+    margin-left: -90px;
 }
 #right-foot {
     float: right;
-    margin-right: 175px;
+    margin-right: 75px;
 }
 .center{
     position: fixed;
