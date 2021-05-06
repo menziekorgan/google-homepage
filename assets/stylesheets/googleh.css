@@ -43,9 +43,16 @@ img {
 .flex {
     display: flex;
     justify-content: center;
+    border: none;
+    height: 30px;
+}
+.search {
+    border-radius: 4px;
 }
 .lucky {
     margin-left: 10px; 
+    width: 130px;
+    border-radius: 4px; 
 }
 #search-bar {
     display: block;
