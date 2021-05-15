@@ -1,4 +1,8 @@
 /* googleh.css */
+body{
+    font-family: product-sans;
+}
+
 .navbar {
     list-style-type: none;
     margin: 0;
@@ -30,7 +34,7 @@
 .center{
     position: fixed;
     top: 60%;
-    left: 50%;
+    left: 45%;
     margin-top: -75px;
     margin-left: -150px;
 }
@@ -45,6 +49,7 @@ img {
     justify-content: center;
     border: none;
     height: 30px;
+    background: transparent;
 }
 .search {
     border-radius: 4px;
@@ -64,5 +69,6 @@ img {
     width: 500px;
     border-radius: 12px;
     height: 25px;
+    background: transparent;
 }
 
