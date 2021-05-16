@@ -6,14 +6,23 @@ body {
 .navbar {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 10px;
     display: flex; 
+    white-space: nowrap;
+    color: #3b3b3b;
+    width: 50%;
+    align-items: center;
 }
+
 #left-nav {
     float: left;
+    padding: 5px;
+    justify-content: start;
 }
 #right-nav{
     float: right;
+    padding: 5px;
+    justify-content: end;
 }
 .footer {
     list-style-type: none;
