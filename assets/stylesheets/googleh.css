@@ -1,4 +1,9 @@
 /* googleh.css */
+
+li {
+    display: inline;
+    padding: 5px 10px;
+}
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: small; 
@@ -37,14 +42,11 @@ body {
     align-items: center;
 }
 #left-foot {
-    float:left;
-    margin-left: -90px;
-    padding: 5px;
     justify-content: start;
+    padding: 5px;
 }
 #right-foot {
     float: right;
-    margin-right: 75px;
     padding: 5px;
     justify-content: end;
 }
