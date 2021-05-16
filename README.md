@@ -1,0 +1,1 @@
+This is my first project for The Odin Project. Through this project I practiced writing HTML and CSS in order to clone the google homepage. I also got comfortable with searching for the answers to my questions and learning more throughout the whole process. 
